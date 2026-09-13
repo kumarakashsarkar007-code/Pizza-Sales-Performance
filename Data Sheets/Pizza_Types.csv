@@ -1,0 +1,33 @@
+﻿category,ingredients,name,pizza_type_id
+Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza,bbq_ckn
+Chicken,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese",The California Chicken Pizza,cali_ckn
+Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza,thai_ckn
+Chicken,"Chicken, Red Onions, Red Peppers, Mushrooms, Asiago Cheese, Alfredo Sauce",The Chicken Alfredo Pizza,ckn_alfredo
+Chicken,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce",The Southwest Chicken Pizza,southw_ckn
+Chicken,"Chicken, Tomatoes, Red Peppers, Spinach, Garlic, Pesto Sauce",The Chicken Pesto Pizza,ckn_pesto
+Classic,"Bacon, Pepperoni, Italian Sausage, Chorizo Sausage",The Big Meat Pizza,big_meat
+Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza,ital_cpcllo
+Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza,the_greek
+Classic,"Mozzarella Cheese, Pepperoni",The Pepperoni Pizza,pepperoni
+Classic,"Pepperoni, Mushrooms, Green Peppers","The Pepperoni, Mushroom, and Peppers Pizza",pep_msh_pep
+Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza,classic_dlx
+Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza,hawaiian
+Classic,"Tomatoes, Anchovies, Green Olives, Red Onions, Garlic",The Napolitana Pizza,napolitana
+Supreme,"‘Nduja Salami, Pancetta, Tomatoes, Red Onions, Friggitello Peppers, Garlic",The Calabrese Pizza,calabrese
+Supreme,"Brie Carre Cheese, Prosciutto, Caramelized Onions, Pears, Thyme, Garlic",The Brie Carre Pizza,brie_carre
+Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza,ital_supr
+Supreme,"Capocollo, Tomatoes, Goat Cheese, Artichokes, Peperoncini verdi, Garlic",The Spicy Italian Pizza,spicy_ital
+Supreme,"Coarse Sicilian Salami, Tomatoes, Green Olives, Luganega Sausage, Onions, Garlic",The Sicilian Pizza,sicilian
+Supreme,"Genoa Salami, Capocollo, Pepperoni, Tomatoes, Asiago Cheese, Garlic",The Pepper Salami Pizza,peppr_salami
+Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza,prsc_argla
+Supreme,"Soppressata Salami, Fontina Cheese, Mozzarella Cheese, Mushrooms, Garlic",The Soppressata Pizza,soppressata
+Supreme,"Spinach, Red Onions, Pepperoni, Tomatoes, Artichokes, Kalamata Olives, Garlic, Asiago Cheese",The Spinach Supreme Pizza,spinach_supr
+Veggie,"Eggplant, Artichokes, Tomatoes, Zucchini, Red Peppers, Garlic, Pesto Sauce",The Italian Vegetables Pizza,ital_veggie
+Veggie,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic",The Five Cheese Pizza,five_cheese
+Veggie,"Mushrooms, Tomatoes, Red Peppers, Green Peppers, Red Onions, Zucchini, Spinach, Garlic",The Vegetables + Vegetables Pizza,veggie_veg
+Veggie,"Ricotta Cheese, Gorgonzola Piccante Cheese, Mozzarella Cheese, Parmigiano Reggiano Cheese, Garlic",The Four Cheese Pizza,four_cheese
+Veggie,"Spinach, Artichokes, Kalamata Olives, Sun-dried Tomatoes, Feta Cheese, Plum Tomatoes, Red Onions",The Mediterranean Pizza,mediterraneo
+Veggie,"Spinach, Artichokes, Tomatoes, Sun-dried Tomatoes, Garlic, Pesto Sauce",The Spinach Pesto Pizza,spin_pesto
+Veggie,"Spinach, Mushrooms, Red Onions, Feta Cheese, Garlic",The Spinach and Feta Pizza,spinach_fet
+Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza,green_garden
+Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza,mexicana
