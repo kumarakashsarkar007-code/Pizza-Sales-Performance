@@ -100,4 +100,4 @@ This project demonstrates how SQL can be used to extract meaningful business ins
 The final dashboard provides stakeholders with a clear view of sales, revenue, products, categories, customer ordering patterns, and business performance.
 
 Demo:
-[Dasboard Preview].(https://github.com/kumarakashsarkar007-code/Pizza-Sales-Performance/blob/main/Snapshot%20of%20Pizza%20Sales%20Dashboard.png)
+![Dasboard Preview].(https://github.com/kumarakashsarkar007-code/Pizza-Sales-Performance/blob/main/Snapshot%20of%20Pizza%20Sales%20Dashboard.png)
