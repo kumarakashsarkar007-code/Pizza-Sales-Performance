@@ -99,5 +99,6 @@ Instead of relying only on assumptions, management can use the dashboard to make
 This project demonstrates how SQL can be used to extract meaningful business insights from transactional data and Power BI can transform those insights into an interactive business dashboard.
 The final dashboard provides stakeholders with a clear view of sales, revenue, products, categories, customer ordering patterns, and business performance.
 
-Demo:
-![Dasboard Preview].(https://github.com/kumarakashsarkar007-code/Pizza-Sales-Performance/blob/main/Snapshot%20of%20Pizza%20Sales%20Dashboard.png)
+## Demo
+
+![Dashboard Preview](https://raw.githubusercontent.com/kumarakashsarkar007-code/Pizza-Sales-Performance/main/Snapshot%20of%20Pizza%20Sales%20Dashboard.png)
